@@ -1225,3 +1225,9 @@
         img{
             pointer-events: none;
         }
+        
+        @media (max-width: 450px){
+            .logo{
+                width:  120px !important;
+            }
+        }

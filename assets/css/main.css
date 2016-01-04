@@ -341,7 +341,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #1cb495 !important;
+			color: #0592FF !important;
 			text-decoration: none;
 		}
 
@@ -751,7 +751,7 @@
 		-ms-transition: border-color 0.2s ease, background-color 0.2s ease;
 		transition: border-color 0.2s ease, background-color 0.2s ease;
 		background-color: transparent;
-		border-radius: 6px;
+		border-radius: 2px;
 		border: none;
 		border: solid 2px rgba(255, 255, 255, 0.35);
 		color: inherit;
@@ -780,7 +780,7 @@
 			-ms-animation: focus 0.1s;
 			animation: focus 0.1s;
 			background-color: rgba(255, 255, 255, 0.125);
-			border-color: #1cb495;
+			border-color: #0592FF;
 		}
 
 	.select-wrapper {
@@ -942,13 +942,13 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		background-color: #1cb495;
-		border-radius: 6px;
+		background-color: #0592FF;
+		border-radius: 2px;
 		border: 0;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 700;
+		font-weight: 400;
 		height: 2.75em;
 		line-height: 2.75em;
 		padding: 0 1.125em;
@@ -962,7 +962,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #1fcaa7;
+			background-color: #0B6CB7;
 		}
 
 		input[type="submit"]:active,
@@ -1212,4 +1212,16 @@
                 margin-left: 0% !important;
                 margin-top: 20px !important;
             }
+        }
+        
+        .logo{
+            width: 150px;
+            height: auto;
+            display: block;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+        
+        img{
+            pointer-events: none;
         }

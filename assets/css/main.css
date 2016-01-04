@@ -149,17 +149,7 @@
 /* BG */
 
 	#bg {
-		-moz-transition: opacity 2s ease-in-out;
-		-webkit-transition: opacity 2s ease-in-out;
-		-ms-transition: opacity 2s ease-in-out;
-		transition: opacity 2s ease-in-out;
-		height: 100%;
-		left: 0;
-		opacity: 0.25;
-		position: fixed;
-		top: 0;
-		width: 100%;
-		z-index: 1;
+		display: none !important;
 	}
 
 		#bg div {
@@ -1185,3 +1175,41 @@
 			}
 
 		}
+        
+        body{
+            background: url("file:///C:/Users/mehed/Documents/Tweeten/images/bg01.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+        }
+        
+        #mc_embed_signup{
+            width: 55%;
+            display: block;
+            overflow: hidden;
+        }
+        
+        .email{
+            width: 75% !important;
+            float: left;
+        }
+        
+        #mc-embedded-subscribe{
+            width: 21%;
+            float: left;
+            margin-left: 1%;
+           
+        }
+        
+        @media (max-width: 1170px){
+            .email, #mc_embed_signup{
+                width: 100% !important;
+            }
+            
+             #mc-embedded-subscribe{
+                width: 150px !important;
+                margin-left: 0% !important;
+                margin-top: 20px !important;
+            }
+        }

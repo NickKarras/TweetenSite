@@ -1,0 +1,9 @@
+{
+  "release": {
+    "title": "Alpha 1",
+    "description": "Welcome to Tweeten Alpha 1!\n\nThis is our initial alpha release so don't expect it to be 100% bug free.\n\nAny suggestion or any bug? Please report them to us by tweeting at our handle: @TweetenApp\n\nOh, and welcome aboard!",
+    "build": "1",
+    "download_url": "http://tweeten.xyz/builds/release/2",
+    "publish_date": "Wednesday, 20 Jan 2016 at 18:50 GMT"
+  }
+}

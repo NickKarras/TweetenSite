@@ -1,9 +1,9 @@
 {
   "alpha": {
-    "title": "Tweeten Alpha #1",
-    "description": "Welcome to Tweeten Alpha #1!\n\nThis is our initial alpha release so don't expect it to be 100% bug free.\n\nAny suggestion or any bug? Please report them to us by tweeting at our handle: @TweetenApp\n\nOh, and welcome aboard!",
-    "build": "1",
-    "download_url": "http://tweeten.xyz/builds/alpha/1",
-    "publish_date": "Wed, 20 Jan 2016 20:30:00 GMT+1"
+    "title": "Tweeten Alpha 3",
+    "description": "Welcome to Tweeten Alpha 3!\n\nThis is our third alpha release so don't expect it to be 100% bug free.\n\nAny suggestion or any bug? Please report them to us by tweeting at our handle: @TweetenApp\n\nOh, and welcome aboard!",
+    "build": "3",
+    "download_url": "http://tweeten.xyz/builds/alpha/3",
+    "publish_date": "Thu, 22 Jan 2016 16:55:00 GMT+1"
   }
 }

@@ -2,7 +2,7 @@
   "alpha": {
     "title": "Tweeten Alpha 4",
     "description": "Welcome to Tweeten Alpha 4!\n\nThis is our 4th alpha release so don't expect it to be 100% bug free.\n\nAny suggestion or any bug? Please report them to us by tweeting at our handle: @TweetenApp\n\nOh, and welcome aboard!",
-    "build": "4",
+    "build": "5",
     "download_url": "http://tweeten.xyz/builds/alpha/4",
     "publish_date": "Thu, 22 Jan 2016 19:14:00 GMT+1"
   }

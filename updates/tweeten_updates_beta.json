@@ -1,9 +1,0 @@
-{
-  "alpha": {
-    "title": "Tweeten Alpha 5",
-    "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Build 5 to testers in the alpha update channel.</p><p class='changelog-hid'>The update includes new improvements and features.</p><p class='changelog'>Here’s what’s new:</p><ul class='changelog'><li>New improved titlebar that should now work correctly in many cases, most notably in fullscreen mode (you can access fullscreen mode by pressing F11 or accessing the option in the right click menu).</li><li>Adjustable Column Sizes are now here in build 5, you can access the option inside the settings window (right click -> application menu -> tweeten -> settings).</li><li>New improved app status messages.</li><li>Polished login screen.</li><li>Improved Settings page.</li><li>New loading animations.</li></ul><p>Any suggestion or any bug? Please report them to us in the Slack Team #bug/#feedback channel</p><p>Oh, and welcome aboard!</p></div>",
-    "build": "5",
-    "download_url": "http://tweeten.xyz/builds/alpha/5",
-    "publish_date": "Thu, 23 Jan 2016 19:20:00 GMT+1"
-  }
-}

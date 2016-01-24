@@ -1,9 +1,9 @@
 {
   "alpha": {
-    "title": "Tweeten Alpha 5",
-    "description": "Hi everyone,\n\nToday we are releasing Build 5 to testers in the alpha update channel.\n\nHere’s what’s new:\n\n - New improved titlebar that should now work correctly in many cases,\n   most notably in fullscreen mode (you can access fullscreen mode by pressing F11 or\n   accessing the option in the right click menu).\n - Adjustable Column Sizes are now here in build 5, you can access the option inside the\n   settings window (right click -> application menu -> tweeten -> settings).\n - New improved app status messages.\n - Polished login screen.\n - Improved Settings page.\n - New loading animations.\n\n\nAny suggestion or any bug?\n\nPlease report them to us in the Slack Team #bug/#feedback channel\n\nOh, and welcome aboard!",
-    "build": "5",
-    "download_url": "http://tweeten.xyz/builds/alpha/5",
-    "publish_date": "Thu, 23 Jan 2016 19:20:00 GMT+1"
+    "title": "Tweeten Alpha 6",
+    "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Build 6 to testers in the alpha update channel.</p><p class='changelog-hid'>The update includes new improvements and features.</p><p class='changelog'>Here’s what’s new:</p><ul class='changelog'><li>TweetDeck Theme Syncing (if you change the theme on Tweeten, it will change your theme for your TweetDeck account, too).</li><li>New design for Update dialog</li><li>Other improvements</li></ul><p>Any suggestion or any bug? Please report them to us in the Slack Team #bug/#feedback channel</p><p>Oh, and welcome aboard!</p></div>",
+    "build": "6",
+    "download_url": "http://tweeten.xyz/builds/alpha/6",
+    "publish_date": "Sunday, 24th January, 2016."
   }
 }

@@ -1,9 +1,9 @@
 {
   "alpha": {
-    "title": "Tweeten Alpha 6",
-    "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Build 6 to testers in the alpha update channel.</p><p class='changelog-hid'>The update includes new improvements and features.</p><p class='changelog'>Here’s what’s new:</p><ul class='changelog'><li>TweetDeck Theme Syncing (if you change the theme on Tweeten, it will change your theme for your TweetDeck account, too).</li><li>New design for Update dialog</li><li>Other improvements</li></ul><p>Any suggestion or any bug? Please report them to us in the Slack Team #bug/#feedback channel</p><p>Oh, and welcome aboard!</p></div>",
-    "build": "6",
-    "download_url": "http://tweeten.xyz/builds/alpha/6",
-    "publish_date": "Sunday, 24th January, 2016."
+    "title": "Tweeten Alpha 7",
+    "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Build 7 to testers in the alpha update channel.</p><p class='changelog-hid'>The update includes new improvements and features.</p><p class='changelog'>Here’s what’s new:</p><ul class='changelog'><li>Column Width Settings now shows live preview</li><li>Improved the UI for Accounts panel</li><li>Other UI improvements and bug fixes</li></ul><p>Any suggestion or any bug? Please report them to us in the Slack Team #bug/#feedback channel</p><p>Oh, and welcome aboard!</p></div>",
+    "build": "7",
+    "download_url": "http://tweeten.xyz/builds/alpha/7",
+    "publish_date": "Monday, 25th January, 2016."
   }
 }

@@ -1,9 +1,16 @@
 {
   "alpha": {
     "title": "Tweeten Alpha 8",
-    "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Build 8 to testers in the alpha update channel.</p><p class='changelog-hid'>The update includes new improvements and features.</p><p class='changelog'>Here’s what’s new:</p><ul class='changelog'><li>New Welcome screen to greet users</li><li>Lots of bug fixes</li><li>Some UI improvements</li></ul><p>We are planning to release the first beta of our app soon, so stay tuned!</p></div>",
+    "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Build 8 to testers in the alpha update channel.</p><p class='changelog-hid'>The update includes new improvements and features.</p><p class='changelog'>Here's what's new:</p><ul class='changelog'><li>New Welcome screen to greet users</li><li>Lots of bug fixes</li><li>Some UI improvements</li></ul><p>We are planning to release the first beta of our app soon, so stay tuned!</p></div>",
     "build": "8",
     "download_url": "http://tweeten.xyz/builds/alpha/8",
     "publish_date": "Thursday, 28th January, 2016."
+  },
+  "beta": {
+    "title": "Tweeten Beta 1",
+    "description": "<div class='changelog_content_tweeten'><ul class='changelog'><li>Initial release</li></ul></div>",
+    "build": "9",
+    "download_url": "http://tweeten.xyz/builds/beta/9",
+    "publish_date": "Thursday, 29th January, 2016."
   }
 }

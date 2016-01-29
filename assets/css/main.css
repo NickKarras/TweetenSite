@@ -1175,7 +1175,7 @@
 			}
 
 		}
-        
+
         body{
             background: url("http://tweeten.xyz/images/bg01.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -1183,37 +1183,37 @@
     -o-background-size: cover;
     background-size: cover;
         }
-        
+
         #mc_embed_signup{
             width: 55%;
             display: block;
             overflow: hidden;
         }
-        
+
         .email{
             width: 75% !important;
             float: left;
         }
-        
+
         #mc-embedded-subscribe{
             width: 21%;
             float: left;
             margin-left: 1%;
-           
+
         }
-        
+
         @media (max-width: 1170px){
             .email, #mc_embed_signup{
                 width: 100% !important;
             }
-            
+
              #mc-embedded-subscribe{
                 width: 150px !important;
                 margin-left: 0% !important;
                 margin-top: 20px !important;
             }
         }
-        
+
         .logo{
             width: 150px;
             height: auto;
@@ -1221,13 +1221,21 @@
             overflow: hidden;
             margin-bottom: 20px;
         }
-        
+
         img{
             pointer-events: none;
         }
-        
+
         @media (max-width: 450px){
             .logo{
                 width:  120px !important;
             }
         }
+
+			#header p{
+				margin-bottom: 5px !important;
+			}
+
+			#mc_embed_signup{
+				margin-top: 15px !important;
+			}

@@ -7,10 +7,10 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1",
-        "description": "<div class='update_content_tweeten'><ul class='changelog'><li>Initial release</li></ul></div>",
-        "build": "9",
-        "download_url": "http://tweeten.xyz/builds/beta/9",
-        "publish_date": "Thursday, 29th January, 2016."
+        "title": "Tweeten Beta 1.1",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Beta 1.1 to testers in the beta update channel.</p><p class='changelog'>Here's what's new:</p><ul class='changelog'><li>Now compatible with Windows 8.1/8 and 7</li><li>Fixed Welcome Screen scaling bug</li><li>Fixed bugs for RTs with Media (on lightbox)</li><li>Improved 'Filtered by' text</li><li>Improved the UI for smaller displays</li><li>Lots of performance improvements and bug fixes</li></ul></div>",
+        "build": "11",
+        "download_url": "http://tweeten.xyz/builds/beta/11",
+        "publish_date": "Saturday, 30th January, 2016."
     }
 }

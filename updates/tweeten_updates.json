@@ -7,10 +7,10 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Beta 1.2 to testers in the beta update channel.</p><p class='changelog'>Here's what's new:</p><ul class='changelog'><li>Twitter Cards (including Polls) are now supported! Open a tweet in detail to view the Card.</li><li>New Light theme (Not ready yet, needs lots of improvements)</li><li>Fixed the Welcome screen. (This time for real)</li><li>You can now close a picture by clicking elsewhere inside the lightbox.</li><li>You can now click on a picture opened in the image preview to view it's full resolution equivalent (will open it in the browser).</li><li>Fixed an issue which disabled users from adding multiple accounts.</li><li>We improved UI for the app's dialogs a little bit.</li></ul></div>",
-        "build": "12",
-        "download_url": "http://tweeten.xyz/builds/beta/12",
+        "title": "Tweeten Beta 1.2.1",
+        "description": "<div class='updated_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Beta 1.2.1 to testers in the beta update channel.</p><p class='changelog'>Here's what's new:</p><ul class='changelog'><li>Fixed new tweet button.</li></ul></div>",
+        "build": "13",
+        "download_url": "http://tweeten.xyz/builds/beta/13",
         "publish_date": "Wednesday, 3rd February, 2016."
     }
 }

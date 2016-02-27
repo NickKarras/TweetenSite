@@ -7,7 +7,7 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.3",
+        "title": "Tweeten Beta 1.2.1",
         "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>We are back! Today we are releasing Beta 1.3 to testers in the beta update channel.</p><p class='changelog'>Here's what's new:</p><ul class='changelog'><li>Added Light theme support to Modal</li><li>Added light theme support for Compose menu</li><li>Added light theme support for Polls and Twitter Cards</li><li>Fixed a bug where the window would overflow in multiple monitors</li><li>Fixed an issue where the window would not minimize</li><li>Fixed DM UI for Dark theme</li><li>Lots of other bug fixes and UI tweaks</li></ul></div>",
         "build": "14",
         "download_url": "http://tweeten.xyz/builds/beta/14",

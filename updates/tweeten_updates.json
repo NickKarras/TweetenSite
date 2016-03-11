@@ -7,10 +7,10 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.4.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Beta 1.4.2 to testers in the beta update channel. This update introduces some improvements and bug fixes.</p><p class='changelog'>Here's what's new and improvements:</p><ul class='changelog'> <li>Say hello to our new logo!</li> <li>Added the ability to close Detailed view with Esc key</li> <li>Fixed a critical bug which caused the app to crash on Reload</li> </ul></div>",
-        "build": "17",
-        "download_url": "http://tweeten.xyz/builds/beta/17",
-        "publish_date": "Sunday, 6th March, 2016."
+        "title": "Tweeten Beta 1.5",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Beta 1.5 to testers in the beta update channel. This update a major feature: spell check!</p><p class='changelog'>Here's what's new and improvements:</p><ul class='changelog'> <li>Spell check support for the following languages: English (United States), English (United Kingdom), English (Australia), English (Canada), English (South Africa), German (Germany), German (Austria), German (Switzerland), French, Spanish, Dutch (Netherlands), Portuguese (Brazil), Russian, Italian, Ukrainian , Swedish (Sweden), Polish, Romanian, Bulgarian, Catalan, Czech, Danish, Greek, Estonian, Basque, Croatian, Hungarian, Lithuanian, Slovak , Slovenian, Turkish, and Vietnamese.</li> </ul></div>",
+        "build": "18",
+        "download_url": "http://tweeten.xyz/builds/beta/18",
+        "publish_date": "Friday, 11th March, 2016."
     }
 }

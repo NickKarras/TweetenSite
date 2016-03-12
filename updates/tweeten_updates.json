@@ -7,10 +7,10 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.5",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p><p>Today we are releasing Beta 1.5 to testers in the beta update channel. This update a major feature: spell check!</p><p class='changelog'>Here's what's new and improvements:</p><ul class='changelog'> <li>Spell check support for the following languages: English (United States), English (United Kingdom), English (Australia), English (Canada), English (South Africa), German (Germany), German (Austria), German (Switzerland), French, Spanish, Dutch (Netherlands), Portuguese (Brazil), Russian, Italian, Ukrainian , Swedish (Sweden), Polish, Romanian, Bulgarian, Catalan, Czech, Danish, Greek, Estonian, Basque, Croatian, Hungarian, Lithuanian, Slovak , Slovenian, Turkish, and Vietnamese.</li> </ul></div>",
-        "build": "18",
-        "download_url": "http://tweeten.xyz/builds/beta/18",
-        "publish_date": "Friday, 11th March, 2016."
+        "title": "Tweeten Beta 1.5.1",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p>Today we are releasing Beta 1.5.1 for Tweeten!</p> <p class='changelog'>You asked for it, and we are delivering! With the previous update, we introduced spell-check support. Today, we are adding suggestions for spell-check. If you spell something incorrectly, simply right click on the word and Tweeten will offer suggestions! Get Tweetin'</p> <p class='changelog'>We are also introducing some improvements to the Welcome + Changelog screens. Additionally, with the latest update, we have moved Settings to the top bar. To toggle it, simply hit the Alt key, then click on Tweeten and click on Settings to customize the look of our app!</p> <p class='changelog'>We have some exciting updates planned for the next few weeks! Oh, Mac and Linux users, we are coming to your dekstop soon. Promise.</p> <p class='changelog'>Thanks for all the love in the recent weeks :) Make sure to let us know if you have any feedback about Tweeten via Twitter (We are @TweetenApp on Twitter) or Slack.</p></div>",
+        "build": "19",
+        "download_url": "http://tweeten.xyz/builds/beta/19",
+        "publish_date": "Saturday, 12th March, 2016."
     }
 }

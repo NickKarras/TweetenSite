@@ -8,7 +8,7 @@
     },
     "beta": {
         "title": "Tweeten Beta 1.5.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Beta 1.5.2 for Tweeten! The latest update is just a minor update which fixes a few issues related to spell-check.</p><p class='changelog'>Thanks for all the love in the recent weeks :) Make sure to let us know if you have any feedback about Tweeten via Twitter (We are @TweetenApp on Twitter) or Slack.</p></div>",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p><p>Today we are releasing Beta 1.5.2 for Tweeten! The latest update is just a minor update which fixes a few issues related to spell-check.</p><p class='changelog'>Thanks for all the love in the recent weeks :) Make sure to let us know if you have any feedback about Tweeten via Twitter (We are @TweetenApp on Twitter) or Slack.</p></div>",
         "build": "20",
         "download_url": "http://tweeten.xyz/builds/beta/20",
         "publish_date": "Sunday, 13th March, 2016. "

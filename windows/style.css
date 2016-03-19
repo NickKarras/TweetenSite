@@ -119,3 +119,60 @@ font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Aria
   color: #fff !important;
   opacity: 0.5;
 }
+
+
+.releasenotes{
+    cursor: pointer;
+}
+
+.vertical-alignment-helper {
+    display:table;
+    height: 100%;
+    width: 100%;
+    pointer-events:none; 
+}
+.vertical-align-center {
+    
+    display: table-cell;
+    vertical-align: middle;
+    pointer-events:none;
+}
+.modal-content {
+    width:inherit;
+    height:inherit;
+    margin: 0 auto;
+    pointer-events: all;
+    border-radius: 0px !important;
+}
+
+.modal-header{
+    border: 0px;
+    background-color: #0C80DA !important;
+    color: #fff;
+    font-weight: 400;
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif !important;
+    text-transform: uppercase;
+    padding-bottom: 10px !important;
+}
+
+.close{
+        color: #fff !important;
+    opacity: 0.7 !important;
+    font-size: 22px !important;
+}
+
+#changelog .btn{
+        border-radius: 0px;
+    border: 0px;
+    color: #fff;
+    background-color: #0784EF;
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif !important;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: all .1s ease-in-out;
+}
+
+#changelog .btn:hover, #changelog .btn:focus{
+    box-shadow: none !important;
+    background-color: #1078D2;
+}

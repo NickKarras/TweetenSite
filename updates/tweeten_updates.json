@@ -7,10 +7,10 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.5.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p><p>Today we are releasing Beta 1.5.2 for Tweeten! The latest update is just a minor update which fixes a few issues related to spell-check.</p><p class='changelog'>Thanks for all the love in the recent weeks :) Make sure to let us know if you have any feedback about Tweeten via Twitter (We are @TweetenApp on Twitter) or Slack.</p></div>",
-        "build": "20",
-        "download_url": "http://tweeten.xyz/builds/beta/20",
-        "publish_date": "Sunday, 13th March, 2016. "
+        "title": "Tweeten Beta 1.6",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p><p>Today we are releasing Beta 1.6 for Tweeten!</p><p class='changelog'>As you may know, TweetDeck recently introduced a seamless login experience for its web app. Unfortunately, the update prevented new Tweeten users from logging into TweetDeck. Today, we are releasing Beta 1.6 to address the issue.</p><p class='changelog'>Thanks everyone for the patience! Oh, if you are coming from TweetDeck for Windows, welcome! We have a bunch of exciting things coming in the future!</p><p class='changelog'> Make sure to let us know if you have any feedback about Tweeten via Twitter (We are @TweetenApp on Twitter) or Slack.</p></div>",
+        "build": "21",
+        "download_url": "http://tweeten.xyz/builds/beta/21",
+        "publish_date": "Friday, 18th March, 2016. "
     }
 }

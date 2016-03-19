@@ -1,13 +1,6 @@
-@import url(font-awesome.min.css);
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Roboto:400,700");
 
-/*
-	Eventually by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
-/* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
@@ -1177,7 +1170,7 @@
 		}
 
         body{
-            background: url("http://tweeten.xyz/images/bg01.jpg") no-repeat center center fixed;
+            background: url("../../images/bg01.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1239,3 +1232,22 @@
 			#mc_embed_signup{
 				margin-top: 15px !important;
 			}
+
+
+.download{
+    padding: 20px 0;
+}
+
+.icons a{
+    color: #fff !important;
+     transition: all .2s ease-in-out;
+}
+
+.icons a:hover{
+    color: #fff !important;
+    opacity: 0.7;
+}
+
+.icons{
+    padding-bottom: 0px !important;
+}

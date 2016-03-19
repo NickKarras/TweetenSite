@@ -8,7 +8,7 @@
     },
     "beta": {
         "title": "Tweeten Beta 1.6",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p><p>Today we are releasing Beta 1.6 for Tweeten!</p><p class='changelog'>As you may know, TweetDeck recently introduced a seamless login experience for its web app. Unfortunately, the update prevented new Tweeten users from logging into TweetDeck. Today, we are releasing Beta 1.6 to address the issue.</p><p class='changelog'>Thanks everyone for the patience! Oh, if you are coming from TweetDeck for Windows, welcome! We have a bunch of exciting things coming in the future!</p><p class='changelog'> Make sure to let us know if you have any feedback about Tweeten via Twitter (We are @TweetenApp on Twitter) or Slack.</p></div>",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Beta 1.6 for Tweeten!</p><p class='changelog'>As you may know, TweetDeck recently introduced a seamless login experience for its web app. Unfortunately, the update prevented new Tweeten users from logging into TweetDeck. Today, we are releasing Beta 1.6 to address the issue.</p><p class='changelog'>Thanks everyone for the patience! Oh, if you are coming from TweetDeck for Windows, welcome! We have a bunch of exciting things coming in the future!</p><p class='changelog'> Make sure to let us know if you have any feedback about Tweeten via Twitter (We are @TweetenApp on Twitter) or Slack.</p></div>",
         "build": "21",
         "download_url": "http://tweeten.xyz/builds/beta/21",
         "publish_date": "Friday, 18th March, 2016. "

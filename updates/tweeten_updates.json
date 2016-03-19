@@ -7,10 +7,10 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.6",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Beta 1.6 for Tweeten!</p><p class='changelog'>As you may know, TweetDeck recently introduced a seamless login experience for its web app. Unfortunately, the update prevented new Tweeten users from logging into TweetDeck. Today, we are releasing Beta 1.6 to address the issue.</p><p class='changelog'>Thanks everyone for the patience! Oh, if you are coming from TweetDeck for Windows, welcome! We have a bunch of exciting things coming in the future!</p><p class='changelog'> Make sure to let us know if you have any feedback about Tweeten via Twitter (We are @TweetenApp on Twitter) or Slack.</p></div>",
-        "build": "21",
-        "download_url": "http://tweeten.xyz/builds/beta/21",
-        "publish_date": "Friday, 18th March, 2016. "
+        "title": "Tweeten Beta 1.7",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p>Today we are releasing Beta 1.7 for Tweeten with a bunch of UI improvements!</p> <p class='changelog'>With 1.7, we have polished the user interface for the Search feature. We are also adding support for Light theme to the Search feature, so if you use the Light theme, make sure to check it out!</p> <p class='changelog'>We have recieved a lot of feedback about the scrollbars recently from our users. With 1.7, we have tweaked the color of the scrollbars slightly, and they are much easier to notice now.</p> <p class='changelog'>We have also added support for the Mention list when composing a new tweet in the Light theme. Additionally, we have also added support for Mention list for inline-replies in the Dark theme (also available in the Light theme)</p> <p class='changelog'>The update also introduces a tonne of small UI improvements, including a new UI for the Column Settings option.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "22",
+        "download_url": "http://tweeten.xyz/builds/beta/22",
+        "publish_date": "Saturday, 19th March, 2016. "
     }
 }

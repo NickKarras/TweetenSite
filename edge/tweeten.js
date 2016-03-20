@@ -12,8 +12,8 @@ $.ajax({
        var latestbuild_short = latestbuild.replace("Tweeten", "");
        $('.latestbuild').append(latestbuild_short);
        $('.releasedate').append(json.edge.publish_date);
-       var _href = $(".downloadextension").attr("href");
-       $(".downloadextension").attr("href", _href + json.edge.download_url + "tweeten-for-edge-v" + json.edge.build + ".zip");
+       var _href = $(".ext-download").attr("href");
+       $(".ext-download").attr("href", _href + json.edge.download_url + "tweeten-for-edge-v" + json.edge.build + ".zip");
        
        var des = json.edge.description;
        $("#changelog .modal-body").append(des);

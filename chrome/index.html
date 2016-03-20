@@ -1,8 +1,10 @@
+<!DOCTYPE HTML>
 <html>
-  	<head>
-		<title>Get Tweeten for Google Chrome!</title>
+	<head>
+		<title>Tweeten for Google Chrome</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
         <link rel="apple-touch-icon" sizes="57x57" href="../inc/apple-touch-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="../inc/apple-touch-icon-60x60.png">
         <link rel="apple-touch-icon" sizes="72x72" href="../inc/apple-touch-icon-72x72.png">
@@ -20,42 +22,46 @@
         <link rel="manifest" href="../inc/manifest.json">
         <link rel="mask-icon" href="../inc/safari-pinned-tab.svg" color="#5bbad5">
         <meta name="msapplication-TileColor" content="#da532c">
-        <meta name="msapplication-TileImage" content="inc/mstile-144x144.png">
+        <meta name="msapplication-TileImage" content="../inc/mstile-144x144.png">
         <meta name="theme-color" content="#16527d">
         <link rel="stylesheet" href="style.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
         <script src="tweeten.js"></script>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-	    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/ffoimglpkabojpaknlpodligjndnedji">
-    </head>
-  <body>
-    <div class="container">
-      <a href="http://tweeten.xyz" title="A better TweetDeck for Windows, OS X, Linux, Chrome and Firefox"><img class="logo" src="http://tweeten.xyz/inc/logo.png"/></a>
-      <h2>Get Tweeten (beta) for Google Chrome</h2>
-      <p>Tweeten for Google Chrome is available in Beta for Windows, OS X and Linux users!</p>
-      <div class="downloadlinks">
-        <button onclick="chrome.webstore.install()" id="install-button" class="downloadlink" title="Get Tweeten for Microsoft Edge">Download</button>
-        <a class="releasenotes downloadlink" data-toggle="modal" data-target="#changelog" title="Read what's new!">Release Notes</a>
-      </div>
-      <div class="updateinfo"><p class="latestbuild">Latest release: </p><p class="releasedate">Released on: </p></div>
-      <ul class="footerlinks">
-        <li><a href="http://twitter.com/tweetenapp">Follow us on Twitter</a>
-        <li><a href="https://tweeten.herokuapp.com/">Join our Slack channel</a>
-      </ul>
-    </div>
-  
-    <div class="modal fade" id="changelog" tabindex="-1" role="dialog" aria-labelledby="tweeten_changelog" aria-hidden="true">
+        <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/ffoimglpkabojpaknlpodligjndnedji">
+	</head>
+	<body>
+        <header id="header">
+            <img class="logo" src="http://tweeten.xyz/inc/logo.png"/>
+            <h1>Tweeten for Google Chrome</h1>
+            <p>Tweeten for Google Chrome is available in Beta for Windows, OS X and Linux users!</p>
+            <div class="get-app">
+                <button onclick="chrome.webstore.install()" id="install-button" class="chrome downloadlink" title="Get Tweeten for Google Chrome">Download</button>
+                <a class="releasenotes downloadlink" data-toggle="modal" data-target="#changelog" title="Read what's new!">Release Notes</a>
+            </div>
+            
+        </header>
+        <footer id="footer">
+            <ul class="icons dicons">
+                <li class="alsoon">Also available for: </li>
+                <li><a title="Get Tweeten for Windows" href="http://tweeten.xyz/windows" class="icon fa-windows"><span class="label">Windows/span></a></li>
+                <li><a title="Get Tweeten for Microsoft Edge" href="http://tweeten.xyz/edge" class="icon fa-edge"><span class="label">Edge</span></a></li>
+            </ul>
+            <ul class="icons follow-text">
+                <li><a href="http://twitter.com/tweetenapp">Follow us on Twitter</a></li>
+                <li><a href="https://tweeten.herokuapp.com/">Join our Slack channel</a></li>
+            </ul>
+        </footer>
+         <div class="modal fade" id="changelog" tabindex="-1" role="dialog" aria-labelledby="tweeten_changelog" aria-hidden="true">
         <div class="vertical-alignment-helper">
             <div class="modal-dialog vertical-align-center">
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
-
                         </button>
                         <h4 class="modal-title" id="tweeten_changelog"></h4>
-
                     </div>
                     <div class="modal-body"></div>
+                    <div class="updateinfo"><p class="latestbuild">Latest release: </p><p class="releasedate">Released on: </p></div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                     </div>
@@ -63,5 +69,15 @@
             </div>
         </div>
     </div>
-    </body>
+       
+        <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-71965477-1', 'auto');
+        ga('send', 'pageview');
+        </script>
+	</body>
 </html>

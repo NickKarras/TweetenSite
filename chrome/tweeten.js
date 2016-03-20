@@ -18,14 +18,6 @@ $.ajax({
    }
 }); 
 
-$(".downloadlink").click(function(){
-    if (chrome.app.isInstalled) {
-        alert("Tweeten is already installed on your browser!");
-    } else{
-        chrome.webstore.install();
-    }
-});
-
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.

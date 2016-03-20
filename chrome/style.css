@@ -61,6 +61,7 @@ img:hover {
     color: #fff;
     border: 0px;
     text-transform: uppercase;
+    outline: none !important;
     transition: all .3s ease-in-out;
     margin-bottom: 10px;
     box-shadow: none !important;
@@ -73,6 +74,7 @@ img:hover {
     color: #fff !important;
     box-shadow: none !important;
     border: 0px !important;
+    outline: none !important;
     background-color: #13578C !important;
 }
 .downloadlinks {

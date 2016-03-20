@@ -1091,7 +1091,7 @@
 		bottom: 4em;
 		color: rgba(255, 255, 255, 0.5);
 		left: 4em;
-		position: absolute;
+		position: initial;
 	}
 
 		#footer .icons {

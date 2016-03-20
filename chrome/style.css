@@ -47,7 +47,7 @@ img:hover {
 }
 .updateinfo p {
     margin: 0px;
-    padding: 0px;
+    padding: 0px; 
     line-height: 20px;
     opacity: 0.8;
     font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif !important;

@@ -13,8 +13,8 @@ $.ajax({
        $('.latestbuild').append(latestbuild_short);
        $('.releasedate').append(json.beta.publish_date);
 
-    //    var _href = $(".downloadlink64").attr("href");
-    //    $(".downloadlink64").attr("href", _href + json.beta.download_url + "/tweeten-darwin-x64.zip");
+       var _href = $(".downloadlink64").attr("href");
+       $(".downloadlink64").attr("href", _href + json.beta.download_url + "/tweeten-darwin-x64.zip");
        
        var des = json.beta.description;
        $("#changelog .modal-body").append(des);

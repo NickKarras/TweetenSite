@@ -1,6 +1,6 @@
 {
     "alpha": {
-        "title": "Tweeten Alpha 10",
+        "title": "Tweeten Alpha 10 ",
         "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p>Today we are releasing Build 10 to testers in the alpha update channel.</p><p class='changelog-hid'>The update includes new improvements.</p><p class='changelog'>Here's what's new:</p><ul class='changelog'><li>Lots and lots of bug fixes</li></ul></div>",
         "build": "10",
         "download_url": "http://tweeten.xyz/builds/alpha/10",

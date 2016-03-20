@@ -21,6 +21,8 @@ $.ajax({
 $(".downloadlink").click(function(){
     if (chrome.app.isInstalled) {
         alert("Tweeten is already installed on your browser!");
+    } else{
+        chrome.webstore.install();
     }
 });
 

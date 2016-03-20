@@ -63,6 +63,7 @@ img:hover {
     text-transform: uppercase;
     transition: all .3s ease-in-out;
     margin-bottom: 10px;
+    box-shadow: none !important;
     font-weight: 600;
     font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif !important;
 }
@@ -70,6 +71,8 @@ img:hover {
 .downloadlink:focus {
     text-decoration: none !important;
     color: #fff !important;
+    box-shadow: none !important;
+    border: 0px !important;
     background-color: #13578C !important;
 }
 .downloadlinks {

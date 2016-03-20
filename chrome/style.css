@@ -27,7 +27,7 @@ body {
     padding: 20px 0;
 }
 .updateinfo {
-    padding-top: 10px;
+    padding-top: 45px;
 }
 img {
     width: 150px;
@@ -59,8 +59,10 @@ img:hover {
     background-color: #066FC1 !important;
     padding: 15px 20px;
     color: #fff;
+    border: 0px;
     text-transform: uppercase;
     transition: all .3s ease-in-out;
+    margin-bottom: 10px;
     font-weight: 600;
     font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif !important;
 }

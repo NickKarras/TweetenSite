@@ -8,14 +8,11 @@ $.ajax({
        var json = $.parseJSON(data);
        //now json variable contains data in json format
        //let's display a few items
-       var latestbuild = json.edge.title
+       var latestbuild = json.chrome.title
        var latestbuild_short = latestbuild.replace("Tweeten", "");
        $('.latestbuild').append(latestbuild_short);
-       $('.releasedate').append(json.edge.publish_date);
-       var _href = $(".downloadextension").attr("href");
-       $(".downloadextension").attr("href", _href + json.edge.download_url + "tweeten-for-edge-v" + json.edge.build + ".zip");
-       
-       var des = json.edge.description;
+       $('.releasedate').append(json.chrome.publish_date);       
+       var des = json.chrome.description;
        $("#changelog .modal-body").append(des);
        $("#changelog .modal-title").append(latestbuild);
    }

@@ -17,13 +17,13 @@
         "title": "Tweeten Beta 1.7",
         "description": "<div class='update_content_tweeten'><p>Hi everyone, </p> <p>Today we are releasing Beta 1.7 for Tweeten with a bunch of UI improvements!</p> <p class='changelog'>With 1.7, we have polished the user interface for the Search feature. We are also adding support for Light theme to the Search feature, so if you use the Light theme, make sure to check it out!</p> <p class='changelog'>We have recieved a lot of feedback about the scrollbars recently from our users. With 1.7, we have tweaked the color of the scrollbars slightly, and they are much easier to notice now.</p> <p class='changelog'>We have also added support for the Mention list when composing a new tweet in the Light theme. Additionally, we have also added support for Mention list for inline-replies in the Dark theme (also available in the Light theme)</p> <p class='changelog'>The update also introduces a tonne of small UI improvements, including a new UI for the Column Settings option.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
         "build": "1.7",
-        "publish_date": "Saturday, 19th March, 2016. "
+        "publish_date": "Saturday, 19th March, 2016."
     },
     "edge": {
         "title": "Tweeten Beta 1.7",
         "description": "<div class='update_content_tweeten'><p>Hi everyone, </p> <p>Today we are releasing Beta 1.7 for Tweeten with a bunch of UI improvements!</p> <p class='changelog'>With 1.7, we have polished the user interface for the Search feature. We are also adding support for Light theme to the Search feature, so if you use the Light theme, make sure to check it out!</p> <p class='changelog'>We have recieved a lot of feedback about the scrollbars recently from our users. With 1.7, we have tweaked the color of the scrollbars slightly, and they are much easier to notice now.</p> <p class='changelog'>We have also added support for the Mention list when composing a new tweet in the Light theme. Additionally, we have also added support for Mention list for inline-replies in the Dark theme (also available in the Light theme)</p> <p class='changelog'>The update also introduces a tonne of small UI improvements, including a new UI for the Column Settings option.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
         "build": "1.7",
         "download_url": "http://tweeten.xyz/edge/releases/",
-        "publish_date": "Saturday, 19th March, 2016. "
+        "publish_date": "Saturday, 19th March, 2016."
     }
 }

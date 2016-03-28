@@ -8,7 +8,7 @@
     },
     "beta": {
         "title": "Tweeten Beta 1.7.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.7.2 for Windows and Mac. With the latest release, we are removing suggestions for spell-check from the Windows app due to performance issues. After you install the update, the app should run smoothly from now on. Keep in mind that spell-check is still here, and we just removed the suggestions from the feature.</p> <p class='changelog'>On Mac, we are adding support for spell-check with Beta 1.7.2. Just like the Windows app, you won't get suggestions for incorrectly spelt words.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.7.2 for Windows and Mac. With the latest release, we are removing suggestions for spell-check from the Windows app due to performance issues. After you install the update, the app should run smoothly from now on. Keep in mind that spell-check is still here, and we just removed the suggestions from the feature.</p> <p class='changelog'>On Mac, we are adding support for spell-check with Beta 1.7.2. Just like the Windows app, you won't get suggestions for incorrectly spelt words.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
         "build": "24",
         "download_url": "http://tweeten.xyz/builds/beta/24",
         "publish_date": "Monday, 28th March, 2016. "

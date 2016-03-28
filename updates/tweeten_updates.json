@@ -7,11 +7,11 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.7.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten for OS X. We are also releasing Tweeten 1.7.1 with a bunch of imrpovements and bug fixes for our Windows app.</p> <p class='changelog'>TweetDeck recently changed some of the text elements' color in the dark theme. We have changed the text elements back to their normal colors as the TweetDeck colors simply looked bad in the Dark (and Light) themes.</p> <p class='changelog'>We have also fixed a bug which sometimes expanded the navigation bar when the user clicked on the compose tweet button. Additonally, we fixed a bug which caused the app to crash when you tried to drag and drop an image.</p> <p class='changelog'>Lastly, we have fixed the issue which caused the text in Dropdown menus to be invisible in the Light theme. We also fixed the Direct Messaging UI in Light Theme with 1.7.1.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "23",
-        "download_url": "http://tweeten.xyz/builds/beta/23",
-        "publish_date": "Sunday, 20th March, 2016. "
+        "title": "Tweeten Beta 1.7.2",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.7.2 for Windows and Mac. With the latest release, we are removing suggestions for spell-check from the Windows app due to performance issues. After you install the update, the app should run smoothly from now on. Keep in mind that spell-check is still here, and we just removed the suggestions from the feature.</p> <p class='changelog'>On Mac, we are adding support for spell-check with Beta 1.7.2. Just like the Windows app, you won't get suggestions for incorrectly spelt words.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "24",
+        "download_url": "http://tweeten.xyz/builds/beta/24",
+        "publish_date": "Monday, 28th March, 2016. "
     },
     "chrome": {
         "title": "Tweeten Beta 1.7.1",

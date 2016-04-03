@@ -7,23 +7,23 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.7.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.7.2 for Windows and Mac. With the latest release, we are removing suggestions for spell-check from the Windows app due to performance issues. After you install the update, the app should run smoothly from now on. Keep in mind that spell-check is still here, and we just removed the suggestions from the feature.</p> <p class='changelog'>On Mac, we are adding support for spell-check with Beta 1.7.2. Just like the Windows app, you won't get suggestions for incorrectly spelt words.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "24",
-        "download_url": "http://tweeten.xyz/builds/beta/24",
-        "publish_date": "Monday, 28th March, 2016. "
+        "title": "Tweeten Beta 1.8",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.8 for Windows and Mac.</p> <p class='changelog'>On Windows, we have added the ability to minmize Tweeten to the tray. Just right click anywhere in the app, and click on minimze to tray!</p> <p class='changelog'>We have fixed an issue which caused the app to crash while trying to drag and drop a file on both Windows and Mac. Additionally, we have fixed the Report Tweet and Add to list modals which didn't show the text properly before.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "25",
+        "download_url": "http://tweeten.xyz/builds/beta/25",
+        "publish_date": "Sunday, 3rd April, 2016. "
     },
     "chrome": {
-        "title": "Tweeten Beta 1.7.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 1.7.1 with a bunch of imrpovements and bug fixes.</p><p class='changelog'>TweetDeck recently changed some of the text elements' color in the dark theme. We have changed the text elements back to their normal colors as the TweetDeck colors simply looked bad in the Dark (and Light) themes.</p> <p class='changelog'>We have also fixed a bug which sometimes expanded the navigation bar when the user clicked on the compose tweet button. Additonally, we fixed a bug which caused the app to crash when you tried to drag and drop an image.</p> <p class='changelog'>Lastly, we have fixed the issue which caused the text in Dropdown menus to be invisible in the Light theme. We also fixed the Direct Messaging UI in Light Theme with 1.7.1.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.7.1",
-        "publish_date": "Sunday, 20th March, 2016."
+        "title": "Tweeten Beta 1.8",
+        "description": "<div class='update_content_tweeten'><p class='changelog'>Today, we are releasing Tweeten Beta 1.8 for Chrome.</p> <p class='changelog'>We have fixed the Report Tweet and Add to list modals which didn't show the text properly before with the latest update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.8",
+        "publish_date": "Sunday, 3rd April, 2016. "
     },
     "edge": {
-        "title": "Tweeten Beta 1.7.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 1.7.1 with a bunch of imrpovements and bug fixes.</p><p class='changelog'>TweetDeck recently changed some of the text elements' color in the dark theme. We have changed the text elements back to their normal colors as the TweetDeck colors simply looked bad in the Dark (and Light) themes.</p> <p class='changelog'>We have also fixed a bug which sometimes expanded the navigation bar when the user clicked on the compose tweet button. Additonally, we fixed a bug which caused the app to crash when you tried to drag and drop an image.</p> <p class='changelog'>Lastly, we have fixed the issue which caused the text in Dropdown menus to be invisible in the Light theme. We also fixed the Direct Messaging UI in Light Theme with 1.7.1.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.7.1",
+        "title": "Tweeten Beta 1.8",
+        "description": "<div class='update_content_tweeten'><p class='changelog'>Today, we are releasing Tweeten Beta 1.8 for Edge.</p> <p class='changelog'>We have fixed the Report Tweet and Add to list modals which didn't show the text properly before with the latest update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.8",
         "download_url": "http://tweeten.xyz/edge/releases/",
-        "publish_date": "Sunday, 20th March, 2016."
+        "publish_date": "Sunday, 3rd April, 2016. "
     }
 }

@@ -20,10 +20,10 @@
         "publish_date": "Sunday, 3rd April, 2016. "
     },
     "edge": {
-        "title": "Tweeten Beta 1.8",
-        "description": "<div class='update_content_tweeten'><p class='changelog'>Today, we are releasing Tweeten Beta 1.8 for Edge.</p> <p class='changelog'>We have fixed the Report Tweet and Add to list modals which didn't show the text properly before with the latest update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.8",
+        "title": "Tweeten Beta 1.8.1",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.8.1 for Edge</p> <p class='changelog'>With 1.8.1, we gave added support for Windows 10 Insider Preview Build 14316.</p> <p calss="changelog">Additionally, we have also updated the logos for our extension and added a quick link to launch TweetDeck from Options</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp).</p> <p>Happy Tweeting!</p></div>",
+        "build": "1.8.1",
         "download_url": "http://tweeten.xyz/edge/releases/",
-        "publish_date": "Sunday, 3rd April, 2016. "
+        "publish_date": "Friday, 8th April, 2016. "
     }
 }

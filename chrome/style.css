@@ -451,7 +451,7 @@ ul.dicons li a{
 
 body{
     background: url("../images/chrome.png") no-repeat center center fixed !important;
-}    
+}
 
 .chrome{
         height: 58px;
@@ -465,30 +465,30 @@ body{
     #header h1{
         font-size: 50px;
     }
-    
+
     #header p{
         font-size: 25px;
     }
-    
+
     .downloadlink{
         font-size: 20px;
     }
-    
+
 }
 
 @media (max-width: 1300px){
     #header h1{
         font-size: 40px;
     }
-    
+
     #header p{
         font-size: 20px;
     }
-    
+
     .downloadlink{
         font-size: 18px;
     }
-    
+
 }
 
 
@@ -496,16 +496,16 @@ body{
     #header h1{
         font-size: 35px;
     }
-    
+
     #header p{
         font-size: 20px;
         width: 100%;
     }
-    
+
     .downloadlink{
         font-size: 16px;
     }
-    
+
 }
 
 
@@ -513,35 +513,35 @@ body{
     #header h1{
         font-size: 35px;
     }
-    
+
     #header p{
         font-size: 20px;
         width: 100%;
     }
-    
+
     .downloadlink{
         font-size: 16px;
     }
-    
+
     .get-app a{
         display: block;
     margin: 8px 0;
     }
-    
+
     #footer{
         position: initial;
     }
-    
+
     .get-app{
         margin-bottom: 10px;
     }
-    
+
     #install-button{
         width: 100%;
         text-align: left !important;;
         height: 40px !important;
     }
-    
+
     .releasenotes{
             height: 40px !important;
     line-height: 18px !important;
@@ -553,4 +553,12 @@ body{
         display: none !important;
     }
 }
-
+.update_content_tweeten ul{
+  color: #312A2A;
+margin: 0 0 6px 0;
+font-size: 15px;
+line-height: 25px;
+font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif !important;
+font-weight: 500;
+margin-left: 20px;
+}

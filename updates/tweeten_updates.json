@@ -7,11 +7,11 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.8",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.8 for Windows and Mac.</p> <p class='changelog'>On Windows, we have added the ability to minmize Tweeten to the tray. Just right click anywhere in the app, and click on minimze to tray!</p> <p class='changelog'>We have fixed an issue which caused the app to crash while trying to drag and drop a file on both Windows and Mac. Additionally, we have fixed the Report Tweet and Add to list modals which didn't show the text properly before.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "25",
-        "download_url": "http://tweeten.xyz/builds/beta/25",
-        "publish_date": "Sunday, 3rd April, 2016. "
+        "title": "Tweeten Beta 1.9",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.9 for Windows and Mac with the following new features and improvements:</p> <ul> <li>You can now enable classic TweetDeck style for Like and RT icons</li> <li>You can now disable Twitter Card and Poll Integration (recommended)</li> <li>You can now enabled squared images instead of the rounded images</li> <li>You can now disable the spell checker</li> <li>You can now enable an indicator for conversations and threads</li> <li>You can now make the columns even slimmer</li> <li>[Windows] We've fixed an issue which caused the app to show wrong info on Program and Features</li> <li>[OS X] We've fixed the icon issue, and it now appears properly on OS X</li> <li>Other minor improvements</li> </ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "26",
+        "download_url": "http://tweeten.xyz/builds/beta/26",
+        "publish_date": "Sunday, 24th April, 2016. "
     },
     "chrome": {
         "title": "Tweeten Beta 1.8",

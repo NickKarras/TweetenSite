@@ -8,7 +8,7 @@
     },
     "beta": {
         "title": "Tweeten Beta 1.9.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten Beta 1.9.1 for Windows and Mac with a fix for TweetDeck's new improvements for the tweet actions. They have moved the tweet actions (like/rt buttons) to the left, and are now showing it by default. With 1.9.1, we've fixed the issue so that you don't see any weirdness on your timeline! You are welcome! :)</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p><p class='changelog'>Today, we are releasing Tweeten Beta 1.9.1 for Windows and Mac with a fix for TweetDeck's new improvements for the tweet actions. They have moved the tweet actions (like/rt buttons) to the left, and are now showing it by default. With 1.9.1, we've fixed the issue so that you don't see any weirdness on your timeline! You are welcome! :)</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
         "build": "27",
         "download_url": "http://tweeten.xyz/builds/beta/27",
         "publish_date": "Monday, 25th April, 2016. "

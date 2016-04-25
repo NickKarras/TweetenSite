@@ -7,23 +7,23 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.9",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.9 for Windows and Mac with the following new features and improvements:</p> <ul> <li>You can now enable classic TweetDeck style for Like and RT icons</li> <li>You can now disable Twitter Card and Poll Integration (recommended)</li> <li>You can now enabled squared images instead of the rounded images</li> <li>You can now disable the spell checker</li> <li>You can now enable an indicator for conversations and threads</li> <li>You can now make the columns even slimmer</li> <li>[Windows] We've fixed an issue which caused the app to show wrong info on Program and Features</li> <li>[OS X] We've fixed the icon issue, and it now appears properly on OS X</li> <li>Other minor improvements</li> </ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "26",
-        "download_url": "http://tweeten.xyz/builds/beta/26",
-        "publish_date": "Sunday, 24th April, 2016. "
+        "title": "Tweeten Beta 1.9.1",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten Beta 1.9.1 for Windows and Mac with a fix for TweetDeck's new improvements for the tweet actions. They have moved the tweet actions (like/rt buttons) to the left, and are now showing it by default. With 1.9.1, we've fixed the issue so that you don't see any weirdness on your timeline! You are welcome! :)</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "27",
+        "download_url": "http://tweeten.xyz/builds/beta/27",
+        "publish_date": "Monday, 25th April, 2016. "
     },
     "chrome": {
-        "title": "Tweeten Beta 1.8",
-        "description": "<div class='update_content_tweeten'><p class='changelog'>Today, we are releasing Tweeten Beta 1.8 for Chrome.</p> <p class='changelog'>We have fixed the Report Tweet and Add to list modals which didn't show the text properly before with the latest update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.8",
-        "publish_date": "Sunday, 3rd April, 2016. "
+        "title": "Tweeten Beta 1.8.1",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten Beta 1.8.1 for Chrome with a fix for TweetDeck's new improvements for the tweet actions. They have moved the tweet actions (like/rt buttons) to the left, and are now showing it by default. With 1.8.1, we've fixed the issue so that you don't see any weirdness on your timeline! You are welcome! :)</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.8.1",
+        "publish_date": "Monday, 25th April, 2016. "
     },
     "edge": {
-        "title": "Tweeten Beta 1.8.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten Beta 1.8.1 for Edge</p> <p class='changelog'>With 1.8.1, we have added support for Windows 10 Insider Preview Build 14316.</p> <p calss='changelog'>Additionally, we have also updated the logos for our extension and added a quick link to launch TweetDeck from Options</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp).</p> <p>Happy Tweeting!</p></div>",
-        "build": "1.8.1",
+        "title": "Tweeten Beta 1.8.2",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten Beta 1.8.2 for Edge with a fix for TweetDeck's new improvements for the tweet actions. They have moved the tweet actions (like/rt buttons) to the left, and are now showing it by default. With 1.8.2, we've fixed the issue so that you don't see any weirdness on your timeline! You are welcome! :)</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.8.2",
         "download_url": "http://tweeten.xyz/edge/releases/",
-        "publish_date": "Friday, 8th April, 2016. "
+        "publish_date": "Monday, 25th April, 2016. "
     }
 }

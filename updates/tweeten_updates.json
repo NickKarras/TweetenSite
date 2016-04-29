@@ -14,10 +14,10 @@
         "publish_date": "Monday, 25th April, 2016. "
     },
     "chrome": {
-        "title": "Tweeten Beta 1.8.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten Beta 1.8.1 for Chrome with a fix for TweetDeck's new improvements for the tweet actions. They have moved the tweet actions (like/rt buttons) to the left, and are now showing it by default. With 1.8.1, we've fixed the issue so that you don't see any weirdness on your timeline! You are welcome! :)</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.8.1",
-        "publish_date": "Monday, 25th April, 2016. "
+        "title": "Tweeten Beta 1.9",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten 1.9 for Chrome with a bunch of new features.</p><p class='changelog'>With the latest update, you can disable the Tweeten-style icons for Like/RT notifications. You can also enabled squared images, and disable the view conversation button. Additionally, you can also make the Tweet Actions show all the time from the new Tweeten options page! To access these settings, just click on the Tweeten icon from the top-right of Chrome, and then click on 'More Settings'.</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.9",
+        "publish_date": "Friday, 29th April, 2016. "
     },
     "edge": {
         "title": "Tweeten Beta 1.8.2",

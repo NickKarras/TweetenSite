@@ -14,9 +14,9 @@
         "publish_date": "Monday, 25th April, 2016. "
     },
     "chrome": {
-        "title": "Tweeten Beta 1.9.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten 1.9.1 for Chrome with a few improvements.</p><p class='changelog'>With the latest update, we are introducing several UI improvements -- including the MDL2 checkbox design for those using Windows 10. Additionally, we've slightly improved the light theme. And lastly, we added the ability to hide the 'Filtered by' message from columns which you can enable in the Settings page. To access the Settings page, just click on the Tweeten icon from the top-right of Chrome, and then click on 'More Settings'.</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.9.1",
+        "title": "Tweeten Beta 1.9.2",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten 1.9.2 for Chrome with a few improvements.</p><p class='changelog'>With the latest update, we are introducing several UI improvements -- including the MDL2 checkbox design for those using Windows 10. Additionally, we've slightly improved the light theme. And lastly, we added the ability to hide the 'Filtered by' message from columns which you can enable in the Settings page. To access the Settings page, just click on the Tweeten icon from the top-right of Chrome, and then click on 'More Settings'.</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.9.2",
         "publish_date": "Saturday, 30th April, 2016. "
     },
     "edge": {

@@ -8,7 +8,7 @@
     },
     "beta": {
         "title": "Tweeten Beta 2.0",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0 for OS X with some new features and improvements.</p> <p class="changelog">With the latest update, the app can now display Tweet Actions (RT/Like buttons) all the time. Additionally, the update also lets you display a seperator for tweets, which will hopefully make reading tweets slightly easier.</p> <p class="changelog">We have also packed a bunch of small UI tweaks with this update. In additon to this, we have also improved font rendering, and the font shoud look slightly better with this update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0 for OS X with some new features and improvements.</p> <p class='changelog'>With the latest update, the app can now display Tweet Actions (RT/Like buttons) all the time. Additionally, the update also lets you display a seperator for tweets, which will hopefully make reading tweets slightly easier.</p> <p class='changelog'>We have also packed a bunch of small UI tweaks with this update. In additon to this, we have also improved font rendering, and the font shoud look slightly better with this update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
         "build": "28",
         "download_url": "http://tweeten.xyz/builds/beta/28",
         "publish_date": "Sunday, 08th May, 2016. "

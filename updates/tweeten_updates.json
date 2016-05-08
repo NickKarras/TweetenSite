@@ -7,17 +7,17 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 1.9.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone, </p><p class='changelog'>Today, we are releasing Tweeten Beta 1.9.1 for Windows and Mac with a fix for TweetDeck's new improvements for the tweet actions. They have moved the tweet actions (like/rt buttons) to the left, and are now showing it by default. With 1.9.1, we've fixed the issue so that you don't see any weirdness on your timeline! You are welcome! :)</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "27",
-        "download_url": "http://tweeten.xyz/builds/beta/27",
-        "publish_date": "Monday, 25th April, 2016. "
+        "title": "Tweeten Beta 2.0",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0 for OS X with some new features and improvements.</p> <p class="changelog">With the latest update, the app can now display Tweet Actions (RT/Like buttons) all the time. Additionally, the update also lets you display a seperator for tweets, which will hopefully make reading tweets slightly easier.</p> <p class="changelog">We have also packed a bunch of small UI tweaks with this update. In additon to this, we have also improved font rendering, and the font shoud look slightly better with this update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "28",
+        "download_url": "http://tweeten.xyz/builds/beta/28",
+        "publish_date": "Sunday, 08th May, 2016. "
     },
     "chrome": {
-        "title": "Tweeten Beta 1.9.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten 1.9.2 for Chrome with a few improvements.</p><p class='changelog'>With the latest update, we are introducing several UI improvements -- including the MDL2 checkbox design for those using Windows 10. Additionally, we've slightly improved the light theme. And lastly, we added the ability to hide the 'Filtered by' message from columns which you can enable in the Settings page. To access the Settings page, just click on the Tweeten icon from the top-right of Chrome, and then click on 'More Settings'.</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.9.2",
-        "publish_date": "Saturday, 30th April, 2016. "
+        "title": "Tweeten Beta 1.9.3",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten 1.9.3 for Chrome. With the latest update, you can now show a seperator between tweets (kidna like the original TweetDeck).</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.9.3",
+        "publish_date": "Sunday, 08th May, 2016. "
     },
     "edge": {
         "title": "Tweeten Beta 1.8.2",

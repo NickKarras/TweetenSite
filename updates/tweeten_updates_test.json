@@ -9,8 +9,8 @@
     "beta": {
         "title": "Tweeten Beta 2.0.2",
         "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0.2 for Windows and OS X with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "30",
-        "download_url": "http://tweeten.xyz/builds/beta/30",
+        "build": "31",
+        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/1.0",
         "publish_date": "Monday, 23rd May, 2016."
     },
     "chrome": {

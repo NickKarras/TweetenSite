@@ -7,17 +7,17 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 2.0",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0 for OS X with some new features and improvements.</p> <p class='changelog'>With the latest update, the app can now display Tweet Actions (RT/Like buttons) all the time. Additionally, the update also lets you display a separator for tweets, which will hopefully make reading tweets slightly easier.</p> <p class='changelog'>We have also packed a bunch of small UI tweaks with this update. In additon to this, we have also improved font rendering, and the font shoud look slightly better with this update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "28",
-        "download_url": "http://tweeten.xyz/builds/beta/28",
-        "publish_date": "Sunday, 08th May, 2016. "
+        "title": "Tweeten Beta 2.0.1",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0 for Windows and OS X with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "29",
+        "download_url": "http://tweeten.xyz/builds/beta/29",
+        "publish_date": "Monday, 23rd May, 2016. "
     },
     "chrome": {
-        "title": "Tweeten Beta 1.9.3",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p><p class='changelog'>Today, we are releasing Tweeten 1.9.3 for Chrome. With the latest update, you can now show a seperator between tweets (kidna like the original TweetDeck).</p><p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.9.3",
-        "publish_date": "Sunday, 08th May, 2016. "
+        "title": "Tweeten Beta 1.9.3.2",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 1.9.3.2 for Google Chrome with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.9.3.2",
+        "publish_date": "Monday, 23rd May, 2016. "
     },
     "edge": {
         "title": "Tweeten Beta 1.8.2",

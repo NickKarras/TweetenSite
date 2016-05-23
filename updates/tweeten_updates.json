@@ -7,16 +7,16 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 2.0.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0 for Windows and OS X with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "29",
-        "download_url": "http://tweeten.xyz/builds/beta/29",
+        "title": "Tweeten Beta 2.0.2",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0.2 for Windows and OS X with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "30",
+        "download_url": "http://tweeten.xyz/builds/beta/30",
         "publish_date": "Monday, 23rd May, 2016. "
     },
     "chrome": {
-        "title": "Tweeten Beta 1.9.3.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 1.9.3.2 for Google Chrome with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.9.3.2",
+        "title": "Tweeten Beta 1.9.4",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 1.9.4 for Google Chrome with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.9.4",
         "publish_date": "Monday, 23rd May, 2016. "
     },
     "edge": {

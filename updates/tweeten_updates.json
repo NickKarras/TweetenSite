@@ -7,17 +7,17 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 2.0.2",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0.2 for Windows and OS X with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "30",
-        "download_url": "http://tweeten.xyz/builds/beta/30",
-        "publish_date": "Monday, 23rd May, 2016."
+        "title": "Tweeten Beta 2.0.3",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0.3 for Windows and OS X which fixes the issue which caused the Retweet indicators to disappear after last night's update. Additionally, on popular demand, we have made the new message indicator slightly brighter so that it's easier for you to notice new DMs!</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "31",
+        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/2.0.3-beta",
+        "publish_date": "Tuesday, 24th May, 2016."
     },
     "chrome": {
-        "title": "Tweeten Beta 1.9.4",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 1.9.4 for Google Chrome with a few bug fixes for the latest TweetDeck update.</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "1.9.4",
-        "publish_date": "Monday, 23rd May, 2016. "
+        "title": "Tweeten Beta 1.9.4.2",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 1.9.4.2 for Chrome which fixes the issue which caused the Retweet indicators to disappear after last night's update. Additionally, on popular demand, we have made the new message indicator slightly brighter so that it's easier for you to notice new DMs!</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "1.9.4.2",
+        "publish_date": "Tuesday, 24th May, 2016."
     },
     "edge": {
         "title": "Tweeten Beta 1.8.2",

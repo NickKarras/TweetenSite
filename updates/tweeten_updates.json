@@ -7,11 +7,11 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 2.0.3",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 2.0.3 for Windows and OS X which fixes the issue which caused the Retweet indicators to disappear after last night's update. Additionally, on popular demand, we have made the new message indicator slightly brighter so that it's easier for you to notice new DMs!</p> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "31",
-        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/2.0.3-beta",
-        "publish_date": "Tuesday, 24th May, 2016."
+        "title": "Tweeten Beta 3.0",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 3.0 for Windows and macOS with a bunch of new features which we got a lot of requests for. You can get the full details about the update on our blog (blog.tweeten.xyz), but here's a quick roundup:</p> <ul> <li>You can now save GIFs within Tweeten (as .gif)</li> <li>You can now Drag and Drop static images and .gif files</li> <li>You can now save static images</li> <li>You can now copy URLs for tweets, user profiles, mentions, and more.</li> <li>You can now copy image URLs</li> <li>We've a new font on macOS which looks a lot better</li> <li>We've added support for TweetDeck's native polls</li> <li>The Settings window now closes by itself when you click 'Save Settings'</li> <li>We've fixed the overlay issue for videos and GIFs</li> <li>We've fixed a bunch of other UI issues and optimized some parts of the app</li> </ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "32",
+        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/3.0.0-beta",
+        "publish_date": "Friday, 17th June, 2016."
     },
     "chrome": {
         "title": "Tweeten Beta 1.9.4.2",

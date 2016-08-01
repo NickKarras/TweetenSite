@@ -7,11 +7,11 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 3.0.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>Today, we are releasing Tweeten 3.0 for Windows and macOS with a bunch of new features which we got a lot of requests for. You can get the full details about the update on our blog (blog.tweeten.xyz), but here's a quick roundup:</p> <ul> <li>You can now save GIFs within Tweeten (as .gif)</li> <li>You can now Drag and Drop static images and .gif files</li> <li>You can now save static images</li> <li>You can now copy URLs for tweets, user profiles, mentions, and more.</li> <li>You can now copy image URLs</li> <li>We've a new font on macOS which looks a lot better</li> <li>We've added support for TweetDeck's native polls</li> <li>The Settings window now closes by itself when you click 'Save Settings'</li> <li>We've fixed the overlay issue for videos and GIFs</li> <li>We've fixed a bunch of other UI issues and optimized some parts of the app</li> </ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "33",
-        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/3.0.1-beta",
-        "publish_date": "Friday, 17th June, 2016."
+        "title": "Tweeten Beta 3.1",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>We are releasing Tweeten 3.1 today with a number of enhancements:</p> <ul> <li>We've added a new splash screen for the app</li> <li>The login experience has been completely redesigned</li> <li>We have also redesigned the logout experience</li> <li>You can now enable GIFs to download on the background automatically</li> <li>The app can now minimizes to tray (disabled by default) when you close it on Windows (previously it'd go to the tray when you minimized the window)</li> <li>Fixed an issue where Tweeten would forget its window state when opened from the tray</li> <li>Fixed an issue which prevented the tray icon from retaining its position on the tray</li> </ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "34",
+        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/3.1-beta",
+        "publish_date": "Monday, 1st August, 2016."
     },
     "chrome": {
         "title": "Tweeten Beta 1.9.4.2",

@@ -7,10 +7,10 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 3.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>We are releasing Tweeten 3.1 today with a number of enhancements:</p> <ul> <li>We've added a new splash screen for the app</li> <li>The login experience has been completely redesigned</li> <li>We have also redesigned the logout experience</li> <li>You can now enable GIFs to download on the background automatically</li> <li>The app can now minimizes to tray (disabled by default) when you close it on Windows (previously it'd go to the tray when you minimized the window)</li> <li>Fixed an issue where Tweeten would forget its window state when opened from the tray</li> <li>Fixed an issue which prevented the tray icon from retaining its position on the tray</li> </ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "34",
-        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/3.1-beta",
+        "title": "Tweeten Beta 3.1.1",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>We are releasing Tweeten 3.1 today with a number of enhancements:</p> <ul> <li>[3.1.1] Fixed some minor bugs introduced with Tweeten 3.1</li><li>We've added a new splash screen for the app</li> <li>The login experience has been completely redesigned</li> <li>We have also redesigned the logout experience</li> <li>You can now enable GIFs to download on the background automatically</li> <li>The app can now minimizes to tray (disabled by default) when you close it on Windows (previously it'd go to the tray when you minimized the window)</li> <li>Fixed an issue where Tweeten would forget its window state when opened from the tray</li> <li>Fixed an issue which prevented the tray icon from retaining its position on the tray</li> </ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "35",
+        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/3.1.1-beta",
         "publish_date": "Monday, 1st August, 2016."
     },
     "chrome": {

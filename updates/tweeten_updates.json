@@ -7,11 +7,11 @@
         "publish_date": "Saturday, 30th January, 2016."
     },
     "beta": {
-        "title": "Tweeten Beta 3.1.1",
-        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>We are releasing Tweeten 3.1 today with a number of enhancements:</p> <ul> <li>[3.1.1] Fixed some minor bugs introduced with Tweeten 3.1</li><li>We've added a new splash screen for the app</li> <li>The login experience has been completely redesigned</li> <li>We have also redesigned the logout experience</li> <li>You can now enable GIFs to download on the background automatically</li> <li>The app can now minimizes to tray (disabled by default) when you close it on Windows (previously it'd go to the tray when you minimized the window)</li> <li>Fixed an issue where Tweeten would forget its window state when opened from the tray</li> <li>Fixed an issue which prevented the tray icon from retaining its position on the tray</li> </ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
-        "build": "35",
-        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/3.1.1-beta",
-        "publish_date": "Monday, 1st August, 2016."
+        "title": "Tweeten Beta 3.2",
+        "description": "<div class='update_content_tweeten'><p>Hi everyone,</p> <p class='changelog'>We are releasing Tweeten 3.2 today with a a couple of improvements and 2FA support:</p> <ul><li>Added support two-factor authentication support to login</li> <li>The app is now nearly 50% lighter on Windows</li> <li>You can now show Media Details when enlarged</li> <li>UI tweaks for the Compose sidebar</li> <li>We are bringing back the Show More Tweets Button</li> <li>The About section now shows the version number of the app</li> <li>Check For Updates will now notify you when there isn't any new update available</li> <li>Fixed an issue which prevented TweetDeck shortcuts from working when Alt+Tab'ing.</li></ul> <p class='changelog'>As usual, if you have any feedback, please let us know via Twitter (@tweetenapp). Happy Tweeting! </p></div>",
+        "build": "36",
+        "download_url": "https://github.com/MehediH/TweetenSite/releases/download/3.2.0-beta",
+        "publish_date": "Wednesday, 10th August, 2016."
     },
     "chrome": {
         "title": "Tweeten Beta 1.9.4.2",
